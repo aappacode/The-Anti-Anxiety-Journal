@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">The Anti-Anxiety Journal</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_last">LastActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="thoughtPatterns">◆ All or nothing ◆ Blaming others ◆ Catastrophizing ◆ Emotional reasoning ◆ Fortune telling ◆ Labeling ◆ Magnifying the negative ◆ Mind reading ◆ Minimizing the positive ◆ Overgeneralization ◆ Self-blaming ◆ Should statements</string>
+    <string name="question1">1. What happened?</string>
+    <string name="question2">2. What is going through your mind?</string>
+    <string name="next">Next</string>
+    <string name="pastEntries">Past Entries</string>
+    <string name="question3">3. What emotions are you feeling?</string>
+    <string name="question4">4. What thought patterns do you recognize?</string>
+    <string name="question5">5. How can you think about the situation differently?</string>
+    <string name="questionContinueReflecting">Continue reflecting?</string>
+    <string name="noBetterButton">No, I\'m feeling better.</string>
+    <string name="yes">Yes</string>
+    <string name="therapistNoteSource">Therapist\'s Note</string>
+    <string name="yourSpace">Your Space</string>
+    <string name="imFinished">I\'m finished</string>
+    <string name="continueReflectingHint">Continue reflecting</string>
+    <string name="viewEntries">View Entries</string>
+    <string name="newEntryBtn">New Entry</string>
+    <string name="learnCBTBtn">LEARN CBT</string>
+</resources>
