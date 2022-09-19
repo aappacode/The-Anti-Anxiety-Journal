@@ -8,4 +8,5 @@ Technical Details
 1. Virtual Machine: Pixel 4 XL
 2. App specific storage to store user entries: plain-text that is saved internally (does not get deleted upon re-installing app).
 3. Min SDK: API 24 (Android 7.0 Nougat) because it runs on 89% of devices, Target: 32 (API 32)
+4. Applications Used: Android Studio, IntelliJ, SceneBuilder
 
